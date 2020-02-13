@@ -1,4 +1,4 @@
-# SnakeGame
+# Snake Game
 
 A sample of old snake game.
 
