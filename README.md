@@ -2,7 +2,7 @@
 
 A sample of old snake game.
 
-About:
+About the code:
 
 - At the beginning tab, you can simply select the options that changes the look of the game. But it's not that user friendly since if you leave some of the entries blank, the game will crash. 
 
