@@ -8,8 +8,13 @@ About the code:
 
 - If you wanna play with the default options, just close the first tab.
 <hr>
+
 ![](README/Options.png)
+
 <hr>
+
 - If you remove the comment line marks (', # etc.), there'll be a second snake. Which is not really necessary and doesn't fit the entire game since I didn't spare my time on this code, but it's a bit fun.
+
 <hr>
+
 ![](README/Snake.png)
